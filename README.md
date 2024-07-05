@@ -13,10 +13,9 @@ The system integrates CNN Architecture to detect disease in leaf.
 ## 🗂 Table of Contents
 - [Introduction](#-introduction)
 - [Requirements](#-requirements)
+- [Demo](#-demo-video)
 - [Features](#-features)
-- [Data Collection](#-data-collection)
-- [API Integration](#-api-integration)
-- [Output](#-output)
+- [API Integration](#-server-access-using-postman-software)
 - [Conclusion](#-conclusion)
 - [Get Started](#-get-started)
 
@@ -72,9 +71,6 @@ https://github.com/AmanStarLitePro/Potato-Disease-Classification/assets/14326047
 - You should receive a response with the predicted class and confidence of prediction.
 
 For more details on using Postman, refer to the [Postman Documentation](https://learning.postman.com/docs/introduction/overview/).
-
-## 📊 Output
-![Output](https://github.com/AritriPodde2210/TeleICU-Patient-Monitoring-System/assets/123970201/819a41cb-b4d0-45fe-9d5a-ea6ebfd87f3e)
 
 ## 🏁 Conclusion
 This project effectively demonstrates the integration of FastAPI with TensorFlow for real-time image classification of potato diseases. By developing endpoints for server status checking and image prediction, utilizing a pre-trained deep learning model, and leveraging tools like Postman for testing, the API proves robust in handling image uploads, processing them with high accuracy, and returning actionable predictions. This solution not only showcases the synergy between modern web frameworks and AI technologies but also highlights its potential impact in agricultural sectors, offering a scalable and efficient tool for disease detection and management, ultimately contributing to improved crop health and productivity.
