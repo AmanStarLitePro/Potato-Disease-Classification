@@ -1,5 +1,4 @@
 # Potato Disease Classification
- Detect Early Blight Leaf, Healthy Leaf, Late Blight Leaf 
 
 Welcome to the **Potato Disease Classification** repository! , this project leverages cutting-edge computer vision and machine learning technologies to enhance Potato Leaf Disease Classification.
 
@@ -83,7 +82,7 @@ Future work will focus on improving the models’ accuracy, expanding the datase
 
 ```sh
 pip install -r requirements.txt
-python main.py
+python Api/main.py
 
 ## Access the API:
 Open your browser and go to http://localhost:8000/ping.
