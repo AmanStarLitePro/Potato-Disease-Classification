@@ -29,7 +29,7 @@ The system integrates CNN Architecture to detect disease in leaf.
 6. [Postman Software](https://learning.postman.com/docs/introduction/overview/)
 
 ## 🎥 Demo Video
-![Demo Video](https://github.com/AmanStarLitePro/Potato-Disease-Classification/blob/c5fbc3b6435b31208d9f119d1433bc2bbf15e508)
+![Demo Video](https://github.com/AmanStarLitePro/Potato-Disease-Classification/assets/143260479/13fc538c-1f1f-4173-8e71-264adfdf0b93)
 
 ## 🎯 Features
 
