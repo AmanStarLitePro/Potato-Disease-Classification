@@ -31,7 +31,6 @@ https://github.com/AmanStarLitePro/Potato-Disease-Classification/assets/14326047
 
 ## 🎯 Features
 
-### 🖼 Object Detection
 **Ping Endpoint**
 - Responds with "Server is Ready" to indicate the server status.
 
