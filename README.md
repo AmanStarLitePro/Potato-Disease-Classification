@@ -34,7 +34,7 @@ https://github.com/AmanStarLitePro/Potato-Disease-Classification/assets/14326047
 **Ping Endpoint**
 - Responds with "Server is Ready" to indicate the server status.
 
-**Prediction Endpoint**
+**Predict Endpoint**
 - Accepts an image file via POST request, processes it using a pre-trained TensorFlow model (my_model.keras), and returns the predicted class and confidence score of the image.
 
 **Output**
